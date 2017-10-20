@@ -1,0 +1,8 @@
+a
+b
+c
+aa
+bb
+cc
+bcca
+aaaca
